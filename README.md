@@ -31,8 +31,7 @@ This profile is named in his honour: **ManInTheRepo**, a nod to *Man in the Box*
 ---
 
 ## 📫 Connect
-- **LinkedIn:** *(optional link)*
-- **Email:** *(optional link)*
+- **Email:** *alvarado.marlon@outlook.com*
 
 ---
 
