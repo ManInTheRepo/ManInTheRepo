@@ -25,7 +25,7 @@ Here you’ll find a mix of professional projects, experiments, and the occasion
 ---
 
 ## 🎶 Inspiration
-Layne Staley taught us that artistry is about truth — even if it’s messy.  
+Layne Staley taught us that artistry is about truth, even if it’s messy.  
 This profile is named in his honour: **ManInTheRepo**, a nod to *Man in the Box*.
 
 ---
@@ -35,4 +35,4 @@ This profile is named in his honour: **ManInTheRepo**, a nod to *Man in the Box*
 
 ---
 
-*"I’m the man in the repo — buried in my code"* 😉
+*"I’m the man in the repo, buried in my code"* 😉
