@@ -1,6 +1,6 @@
 # 🎸 ManInTheRepo
 
-> *"Feed my code, but not my ego"* — loosely inspired by Layne Staley
+> *"Feed my code, but not my ego"*, loosely inspired by Layne Staley
 
 Welcome to my corner of GitHub.  
 Here you’ll find a mix of professional projects, experiments, and the occasional late-night idea that seemed brilliant at the time.
